@@ -87,5 +87,5 @@ The model achieved high accuracy in detecting both mobile phones and watches acr
 
 <p align="center">
   <img src="cell_phone.jpg" alt="Example Detection 1" width="45%">
-  <img src="watch.jpg" alt="Example Detection 2" width="45%">
+  <img src="watch.jpg" alt="Example Detection 2" width="25%">
 </p>
